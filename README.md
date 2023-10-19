@@ -58,6 +58,6 @@ You can customize this project by adding more products, modifying styles, or exp
 
 ## Author
 Name  Mohammad Mumtaz
-GitHub: LLink Here<a href="https://github.com/Mumtaz12/Passenger-cart">
+GitHub: LLink Here<a href="https://github.com/Mumtaz12/Passenger-cart"></a>
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
