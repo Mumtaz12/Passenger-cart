@@ -28,9 +28,9 @@ Follow these steps to run the project on your local machine:
    ```bash
    git clone https://github.com/yourusername/your-e-commerce-app.git
    cd your-e-commerce-app
-Install project dependencies:
+## Install project dependencies:
 
-bash
+  bash
 Copy code
 npm install
 Start the development server:
@@ -40,7 +40,7 @@ Copy code
 npm run dev
 Open your web browser and visit http://localhost:3000 to see the website.
 
-Project Structure
+## Project Structure
 src folder: Contains the source code for the Next.js application.
 components: React components, including the ProductCard.
 pages: Next.js pages, including the home page.
@@ -50,14 +50,14 @@ styles folder: Global CSS and styling.
 MobX Store
 The CartStore in the stores directory manages the cart state, allowing users to add products.
 
-Data Fetching and ISR
+## Data Fetching and ISR
 Product data is fetched using ISR from a JSON file hosted on a public GitHub repository. Editing the JSON file allows for updating product information on the website without a full rebuild.
 
-Project Customization
+## Project Customization
 You can customize this project by adding more products, modifying styles, or expanding the functionality. Feel free to explore and enhance it according to based on Customer requirements.
 
-Author
+## Author
 Name  Mohammad Mumtaz
 GitHub: ""
-License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
